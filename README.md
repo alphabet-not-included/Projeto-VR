@@ -17,7 +17,7 @@ OBS:como as pastas do projeto, é muito grande, recomenda-se baixar diretamente 
 4. Na unity, vá em  Open -> Selecione a pasta do projeto no file explorer ->  Clique para abrir o projeto
 
 5. Caso haja algum problema, a base do projeto, pode ser baixada direto pelo link:
-
+https://mauabr-my.sharepoint.com/:f:/g/personal/20_00045-6_maua_br/EtIMOYyoS8FPsQBCBdUA5sABAL9Q_2HU0IuGGV946X6FQw?e=OG5VXS
 
 6. O apk do projeto também esta incluso nesta pasta. Mas é possível construir o projeto usando as opções nativas da unity em: File-> project settings -> build.
 
