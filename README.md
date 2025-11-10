@@ -3,7 +3,8 @@
 # App projeto de RV pro oculos metaQuest
 
 ## Descrição
-Este projeto é um projeto de introdução à Realidade virtual/mista realizado em unity por mim para a disciplina eletiva de Realidade Virtual e Aumentada ("Multimídia e RV"). O 
+Este projeto é um projeto de introdução à Realidade virtual/mista realizado em unity por mim para a disciplina eletiva de Realidade Virtual e Aumentada ("Multimídia e RV"). O projeto não é perfeito, mas foi feito usando o template de RV da unity. Tentei fazer uma areazinha de boliche.
+
 
 ## Infos gerais
 Há alguns passos para importar o projeto:
