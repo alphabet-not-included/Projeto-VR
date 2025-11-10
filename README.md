@@ -13,7 +13,7 @@ Há alguns passos para importar o projeto na Unity.
 
 3. Caso necessário, baixe as pasta "assets" para caso perca os assets do projeto.
 
-OBS:como as pastas do projeto, é muito grande, recomenda-se baixar diretamente a pasta do projeto e descompactá-la. (Mais abaixo).
+OBS:como as pastas do projeto são muito grandes, recomenda-se baixar diretamente a pasta do projeto e descompactá-la. (Mais abaixo).
 
 4. Na unity, vá em  Open -> Selecione a pasta do projeto no file explorer ->  Clique para abrir o projeto
 
