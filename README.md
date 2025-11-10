@@ -7,7 +7,7 @@ Este projeto é um projeto de introdução à Realidade virtual/mista realizado 
 
 
 ## Infos gerais
-Há alguns passos para importar o projeto:
+Há alguns passos para importar o projeto na Unity.
 1. Instale a unity/unity hub (v6000.2.6f2)
 2. Instale o modelo de VR da unity
 
@@ -21,4 +21,4 @@ OBS:como as pastas do projeto, é muito grande, recomenda-se baixar diretamente 
 https://mauabr-my.sharepoint.com/:f:/g/personal/20_00045-6_maua_br/EtIMOYyoS8FPsQBCBdUA5sABAL9Q_2HU0IuGGV946X6FQw?e=OG5VXS
 
 6. O apk do projeto também esta incluso nesta pasta. Mas é possível construir o projeto usando as opções nativas da unity em: File-> project settings -> build.
-
+Não se esqueça de procurar pelo dispositivo de RV conectado ao seu computador, senão haverá erros!
